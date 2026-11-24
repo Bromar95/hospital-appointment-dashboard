@@ -115,7 +115,7 @@ Building this project strengthened my skills in:
 
 ## 🙌 Acknowledgment
 
-This project taught me that a dashboard is only as useful as the questions it answers. The tutorial showed how many appointments each clinic handles. Asking which clinics and patients miss the most visits, and whether the data itself makes clinical sense, turned it into a tool a clinic manager could act on.
+This project taught me that a dashboard is only as useful as the questions it answers. Asking which clinics and patients miss the most visits, and whether the data itself makes clinical sense, turned it into a tool a clinic manager could act on.
 
 ## 👨‍💻 Author
 
